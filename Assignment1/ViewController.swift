@@ -21,7 +21,7 @@ class ViewController: UIViewController {
       
     }
 
-    @IBAction func placedogapi(_ sender: Any) {
+    @IBAction func animeAPI(_ sender: Any) {
         let url = "https://animechan.vercel.app/api/random"
         Task{
             let data: Data = try await APIService.fetchData(from: url)

@@ -24,9 +24,9 @@
                                         <color key="backgroundColor" systemColor="systemOrangeColor"/>
                                         <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <state key="normal" title="Button"/>
-                                        <buttonConfiguration key="configuration" style="plain" title="Place DOG API"/>
+                                        <buttonConfiguration key="configuration" style="plain" title="Anime Quotes"/>
                                         <connections>
-                                            <action selector="placedogapi:" destination="BYZ-38-t0r" eventType="touchUpInside" id="lb1-HQ-A50"/>
+                                            <action selector="animeAPI:" destination="BYZ-38-t0r" eventType="touchUpInside" id="vDp-QY-Yal"/>
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ATP-ez-3nz">
